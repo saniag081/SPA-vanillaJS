@@ -3,8 +3,8 @@ function Home() {
 		<div class="characters">
 			<article class="characters-item">
 				<a href="#/1/">
-					<img src="" alt="" />
-					<h2></h2>
+					<img src="image" alt="name" />
+					<h2>name</h2>
 				</a>
 			</article>
 		</div>
